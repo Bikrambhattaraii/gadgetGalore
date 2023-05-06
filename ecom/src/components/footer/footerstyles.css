@@ -1,0 +1,40 @@
+.subscribe_section{
+    display: flex;
+    flex-direction: row;
+    height: 18vh;
+    border: 1px solid red;
+    margin: 70px 70px;
+    text-align: center;
+    padding: 30px 30px;
+    background-color:#fff;
+    border: none;
+    border-radius: 10px;
+    
+}
+
+.subscribe_section h1{
+    font-size: 3rem;
+    color:cornflowerblue;
+}
+.subscribe_section input[type=email]{
+    height: 50px;
+    background-color: darkorange;
+    border: none;
+    border-radius: 30px;
+    margin-top: 45px;
+    margin-left: 60px;
+    width: 400px;
+    padding-left: 100px;
+
+}
+.main-footer{
+    background-color: #d5d4cf;
+    height: 700px;
+    padding-top: 150px;
+}
+.contact-section{
+    margin-left: 80px;
+}
+.icon{
+    margin-left: 40px;
+}

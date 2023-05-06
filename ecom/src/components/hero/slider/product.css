@@ -1,0 +1,24 @@
+.card{
+    height: 500px;
+    width: 400px;
+    border: 2px solid rebeccapurple;
+    padding: 40px 40px;
+    margin: 20px;
+
+}
+.card img{
+    height: 300px;
+    width: 400px;
+}
+.price{
+    font-size: 1rem;
+}
+.card h1{
+font-size: 2rem;
+font-weight: 400;
+}
+button{
+    background: black;
+    border-radius: 10px;
+    color: white;
+}
