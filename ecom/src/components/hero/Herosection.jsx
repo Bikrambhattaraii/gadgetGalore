@@ -6,6 +6,7 @@ const Herosection = () => {
     <div>
       <HeroSlider></HeroSlider>
       <Productslider/>
+    
       <Popularproducts />
     </div>
   )
