@@ -9,7 +9,7 @@ const footer = () => {
         <h1>subscribe</h1>
 
         <input type="email" placeholder="enter your email" />
-   <p className="icon">  <RiCustomerService2Fill size={40} /> </p>
+   <p className="icon">  <RiCustomerService2Fill size={60} /> </p>
        <div className="contact-section">
           <p>
             

@@ -1,0 +1,45 @@
+.continue-shopping {
+    display: flex;
+    height: inherit;
+    align-items: center;
+  }
+  .cart-portion{
+    display: flex;
+    height: 10vh;
+    background-color: gray;
+    margin-bottom: 7rem;
+
+  }
+  .cart-portion h3{
+    margin-left: 30px;
+  }
+  .cart-icon {
+    display: flex;
+    text-align: end;
+    margin-right: 2rem;
+    align-items: center;
+    position: relative;
+    justify-content: flex-end;
+    margin-left: 1000px;
+  }
+  .main-cart-section h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 3rem;
+    text-transform: capitalize;
+    color: rgba(41, 41, 41, 1);
+    margin-bottom: 1rem;
+  }
+  .main-cart-section .total-items {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.8rem;
+    text-transform: capitalize;
+    color: var(--main-color);
+    margin-bottom: 5rem;
+  }
+  .total-items-count {
+    font-weight: bold;
+    color: var(--main-color);
+  }
+  

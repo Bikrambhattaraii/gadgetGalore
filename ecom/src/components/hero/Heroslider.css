@@ -101,6 +101,7 @@
 .button-two {
   border: 1.6px solid rgb(80, 80, 221);
   color: rgb(80, 80, 221);
+  background-color: #fff;
   margin-left: 20px;
 }
 .button-one:hover,
