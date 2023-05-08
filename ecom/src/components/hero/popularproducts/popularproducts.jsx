@@ -12,7 +12,7 @@ const Popularproducts = () => {
             <img src={Productdata.image} alt={`image-${Productdata.id}`} />
             <div>
               <h2>{Productdata.name}</h2>
-              <p>{Productdata.price}</p>
+              <p>Rs{Productdata.price}</p>
             </div>
           </div>
         ))}
