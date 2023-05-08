@@ -1,5 +1,5 @@
 import "./headestyle.css";
-import Logo from "../../assests/gadget-removebg-preview.png";
+import Logo from "../../assest/logo.jpg";
 import { FaUser, FaPeriscope, FaBusAlt } from "react-icons/fa";
 import { AiOutlineHeart, AiOutlineShoppingCart } from "react-icons/ai";
 

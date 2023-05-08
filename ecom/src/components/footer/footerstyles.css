@@ -34,7 +34,34 @@
 }
 .contact-section{
     margin-left: 80px;
+    /* display: flex; */
 }
 .icon{
     margin-left: 40px;
+}
+.payment-section{
+    height: 20vh;
+    width: 1380px;
+    /* justify-content: center;
+     */
+     margin-left: 80px;
+    background-color: navajowhite;
+}
+.footer-mid-section{
+    height: 300px;
+    display: flex;
+}
+.footer-mid-section h1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.footer-mid-section p{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.footer-mid-section ul{
+list-style: none;
+}
+.followus-section{
+    display: flex;
 }

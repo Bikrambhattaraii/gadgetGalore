@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import "./Heroslider.css";
-import HeroImage1 from "../../assests/products/headphone.jpg";
-import HeroImage2 from "../../assests/products/iphone.jpg";
-import HeroImage3 from "../../assests/products/mac.webp"
+import HeroImage1 from "../../assest/products/headphone.jpg";
+import HeroImage2 from "../../assest/products/iphone.jpg"
+import HeroImage3 from "../../assest/products/mac.webp"
 
 const HeroSlider = () => {
   const images = [

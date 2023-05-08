@@ -1,10 +1,10 @@
-import Watch from "../../../assests/sliderimages/watch.jpg";
-import Iphone from "../../../assests/sliderimages/iphone.png";
-import Headphone from "../../../assests/sliderimages/headphone.jpg";
-import Tablet from "../../../assests/sliderimages/tablet.jpg";
-import Mouse from "../../../assests/sliderimages/moudr.png";
-import Camera from "../../../assests/sliderimages/camera.jpg";
-import Alexa from "../../../assests/sliderimages/alaexa.jpg";
+import Watch from "../../../assest/sliderimages/watch.jpg";
+import Iphone from "../../../assest/sliderimages/iphone.png";
+import Headphone from "../../../assest/sliderimages/headphone.jpg";
+import Tablet from "../../../assest/sliderimages/tablet.jpg";
+import Mouse from "../../../assest/sliderimages/moudr.png";
+import Camera from "../../../assest/sliderimages/camera.jpg";
+import Alexa from "../../../assest/sliderimages/alaexa.jpg";
 
 export const responsive = {
     superLargeDesktop: {
