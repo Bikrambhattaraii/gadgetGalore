@@ -13,6 +13,7 @@ const Popularproducts = () => {
             <div>
               <h2>{Productdata.name}</h2>
               <p>Rs{Productdata.price}</p>
+              <button>Add TO Cart</button>
             </div>
           </div>
         ))}

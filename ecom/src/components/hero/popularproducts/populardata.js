@@ -43,13 +43,13 @@ export const Productdata=[
         id:6,
         name:"Samsung tablet",
         price:"700",
-        image:img5,
+        image:img6,
     },
     {
         id:7,
         name:"Watch",
         price:"5000",
-        image:img5,
+        image:img7,
     },
  
   
