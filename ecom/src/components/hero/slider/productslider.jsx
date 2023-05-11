@@ -13,7 +13,7 @@ const Productslider = () => {
   description={item.description} />);
   return (
     <div className="slide">
-      <Carousel showDots={true} autoPlay={true} infiniteLoop={true} responsive={responsive}>{product}</Carousel>;
+      <Carousel showDots={true} infinite={true} autoPlay={true}  responsive={responsive}>{product}</Carousel>;
     </div>
   );
 };

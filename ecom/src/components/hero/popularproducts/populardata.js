@@ -45,12 +45,5 @@ export const Productdata=[
         price:"700",
         image:img6,
     },
-    {
-        id:7,
-        name:"Watch",
-        price:"5000",
-        image:img7,
-    },
- 
-  
+   
 ]

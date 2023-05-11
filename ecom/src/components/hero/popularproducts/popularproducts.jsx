@@ -9,11 +9,11 @@ const Popularproducts = () => {
       <div className="main-container">
         {Productdata.map((Productdata) => (
           <div className="products-cards" key={Productdata.id}>
-            <img src={Productdata.image} alt={`image-${Productdata.id}`} />
+            <img src={Productdata.image} alt={Productdata.id} />
             <div>
               <h2>{Productdata.name}</h2>
               <p>Rs{Productdata.price}</p>
-              <button>Add TO Cart</button>
+              <button className="popular_button">Add TO Cart</button>
             </div>
           </div>
         ))}
