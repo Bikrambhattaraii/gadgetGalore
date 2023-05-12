@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    /* align-items: center; */
+
+}
+.card-our-team {
+    height: 300px ;
+    width: 300px;
+    border: 1px solid rebeccapurple;
+    border-radius: 50%;
+    position: relative;
+}
+.container h1{
+text-align: center;
+margin-bottom: 30px;    
+}
+.card-our-team img{
+    object-fit: cover;
+    position: absolute;
+
+}

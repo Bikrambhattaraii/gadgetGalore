@@ -4,6 +4,8 @@ import Footer from "../components/footer/footer"
 
  import React from 'react'
 import Aboutus from "src/components/aboutus/aboutus";
+import Ourteam from "src/components/outteam/ourteam";
+import GoToTop from "src/components/scrolltop/scroll";
  
  const Home = () => {
    return (
@@ -11,6 +13,8 @@ import Aboutus from "src/components/aboutus/aboutus";
        <Header />
        <Herosection/>
        {/* <Aboutus /> */}
+       {/* <Ourteam />   */}
+       <GoToTop />
        <Footer />
        
      </div>
