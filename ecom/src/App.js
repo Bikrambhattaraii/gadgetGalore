@@ -6,8 +6,9 @@ import Cart from "./components/cart/cart.jsx"
 function App() {
   return (
     <>
+    {/* <ShopContextProvider> */}
       <Home />
-      
+      {/* </ShopContextProvider> */}
     </>
   );
 }

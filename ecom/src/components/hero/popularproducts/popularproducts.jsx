@@ -1,6 +1,7 @@
 import "./popularproducts.css";
 import React from "react";
 import { Productdata } from "./populardata";
+import Button from "../../button component/button"
 
 const Popularproducts = () => {
   return (
@@ -13,7 +14,7 @@ const Popularproducts = () => {
             <div>
               <h2>{Productdata.name}</h2>
               <p>Rs{Productdata.price}</p>
-              <button className="popular_button">Add TO Cart</button>
+              <Button />
             </div>
           </div>
         ))}

@@ -11,12 +11,13 @@
     padding: 50px 50px;
     
     background-color: #fff;
-
+    text-align: center;
 }
 .card img{
     height: 220px;
-    width: 200px;
+    width: 100%;
     cursor: pointer;
+    margin-left:40px ;
 }
 
 .price{

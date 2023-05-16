@@ -1,7 +1,7 @@
 import React from "react";
 import "./cart.css";
 import { FaArrowLeft, FaShoppingCart } from "react-icons/fa";
-const cart = () => {
+const Cart = () => {
   return (
     <>
       <header className="cart-portion">
@@ -35,4 +35,4 @@ const cart = () => {
   );
 };
 
-export default cart;
+export default Cart;

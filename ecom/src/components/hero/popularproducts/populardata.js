@@ -9,38 +9,38 @@ import img7 from '../../../assest/sliderimages/watch.jpg'
 
 export const Productdata=[
     {
-        id:1,
+        itemId:1,
         name:"Alexa",
         price:"7000",
         image:img1,
     },
     {
-        id:2,
+        itemId:2,
         name:"Camera",
         price:"143000",
         image:img2,
     },
     {
-        id:3,
+        itemId:3,
         name:"Headphone ",
         price:"3000",
         image:img3
     },
     {
-        id:4,
+        itemId:4,
         name:"Apple iphone",
         price:"1,50,555",
         image:img4,
       },
          {
-            id:5,
+            itemId:5,
             name:"Mouse",
             price:"700",
             image:img5,
         },
    
     {
-        id:6,
+        itemId:6,
         name:"Samsung tablet",
         price:"700",
         image:img6,

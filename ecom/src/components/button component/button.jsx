@@ -1,6 +1,6 @@
-import React from 'react'
 
-const button = () => {
+import "./button.css"
+const Button = () => {
   return (
     <div>
       <button className='reusable_button'>
@@ -10,4 +10,4 @@ const button = () => {
   )
 }
 
-export default button
+export default Button;
