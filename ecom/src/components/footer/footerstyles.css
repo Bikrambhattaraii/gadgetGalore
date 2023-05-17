@@ -8,7 +8,7 @@
     padding: 30px 30px;
     background-color:#fff;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
     
 }
 
@@ -30,7 +30,7 @@
 .main-footer{
     background-color: #d5d4cf;
     height: 700px;
-    padding-top: 150px;
+    padding-top: 50px;
 }
 .contact-section{
     margin-left: 80px;

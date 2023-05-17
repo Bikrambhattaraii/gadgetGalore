@@ -12,9 +12,9 @@ import GoToTop from "src/components/scrolltop/scroll";
      <div>
        <Header />
        <Herosection/>
-       {/* <Aboutus /> */}
+       <Aboutus />
        {/* <Ourteam />   */}
-       <Cart />
+       {/* <Cart /> */}
        <GoToTop />
        <Footer />
 
