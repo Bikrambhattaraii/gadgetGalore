@@ -65,3 +65,24 @@ list-style: none;
 .followus-section{
     display: flex;
 }
+.footer-mid-section h1{
+    color: rgb(2, 28, 54);
+}
+.pages-footer-mid{
+    display: flex;
+    flex-direction: column;
+}
+.pages-footer-mid ul li{
+    font-size: 1.6rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    color: rgb(2, 28, 54);
+}
+.followus-section li{
+    margin: 6px;
+    cursor: pointer;
+}
+.followus-section li:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}

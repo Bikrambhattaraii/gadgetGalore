@@ -26,8 +26,9 @@ const footer = () => {
         </div>
       </div>
       <div className="footer-mid-section">
+        <div className="pages-footer-mid">
         <h1>
-          pages
+          pages </h1>
           <ul>
             <li>home</li>
             <li>about us</li>
@@ -35,12 +36,12 @@ const footer = () => {
             <li>privacy policy</li>
             <li>terms and conditions</li>
           </ul>
-        </h1>
+      </div>  
         <h1 className="follow-us-header">
           follow us on
           <ul className="followus-section">
             <li>
-              <FaGithub color="gray"></FaGithub>
+              <FaGithub color="gray" />
             </li>
             <li>
               <FaFacebookSquare color="gray" />
