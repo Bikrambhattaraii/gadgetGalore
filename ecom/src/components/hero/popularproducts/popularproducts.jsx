@@ -4,6 +4,8 @@ import { Productdata } from "./populardata";
 import Button from "../../button component/button"
 
 const Popularproducts = () => {
+
+  
   return (
     <div className="popularproducts_data">
       <h1>Popular Products</h1>
@@ -14,13 +16,13 @@ const Popularproducts = () => {
             <div>
               <h2>{Productdata.name}</h2>
               <p>Rs{Productdata.price}</p>
-              <Button />
+              <Button/>
             </div>
           </div>
         ))}
       </div>
     </div>
   );
-};
 
+        }
 export default Popularproducts;

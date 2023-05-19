@@ -59,6 +59,7 @@ const Header = () => {
         </div>
         <div className="navbar">
           <ul>
+            
             <li>Home</li>
             <li>blog</li>
             <li>about</li>

@@ -9,7 +9,7 @@ import {
   FaYoutube,
 } from "react-icons/fa";
 
-const footer = () => {
+const Footer = () => {
   return (
     <div className="main-footer">
       <div className="subscribe_section">
@@ -62,4 +62,4 @@ const footer = () => {
   );
 };
 
-export default footer;
+export default Footer;
